@@ -345,7 +345,7 @@ Now that mathematical functions that operate on floats can also take vectors as 
     Takes two vectors and returns the distance between them, using cosine distance: d = 1 - sum(ui*vi) / (sqrt(sum(ui^2)) * sqrt(sum(vi^2))).
 
 ------------------------
-Json funcitons
+Json functions
 ------------------------
 
 .. function:: json(x)
